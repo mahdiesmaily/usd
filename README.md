@@ -9,7 +9,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۱۴ مهر ۱۴۰۵ (2026-10-06) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۶:۴۷** (به وقت تهران)
+> 📅 **تاریخ:** ۱۲ آبان ۱۴۰۵ (2026-11-03) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۲۳:۱۶** (به وقت تهران)
 
 <br/>
 
@@ -36,12 +36,12 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۷۰،۰۹۰ تومان</b></td>
+<td align="left"><b>۲۷۳،۸۹۶ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۳۰۴،۲۰۰ تومان</b></td>
+<td align="left"><b>۳۰۶،۵۰۰ تومان</b></td>
 </tr>
 
 <!-- بخش طلا -->
@@ -51,17 +51,17 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۶،۷۰۴،۸۳۰ تومان</b></td>
+<td align="left"><b>۲۵،۴۵۱،۳۱۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۵،۶۸۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۱۰،۲۵۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۴۱۶۹.۵۲ دلار</b></td>
+<td align="left"><b>۳۹۲۴.۵۲ دلار</b></td>
 </tr>
 
 <!-- بخش سکه -->
@@ -71,27 +71,27 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه تمام امامی (طرح جدید)</b></td>
-<td align="left"><b>۲۷۳،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۶۱،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه بهار آزادی (طرح قدیم)</b></td>
-<td align="left"><b>۲۶۲،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۵۲،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>نیم سکه بهار آزادی</b></td>
-<td align="left"><b>۱۴۴،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۳۹،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>ربع سکه بهار آزادی</b></td>
-<td align="left"><b>۷۹،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۷۵،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه گرمی</b></td>
-<td align="left"><b>۳۸،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۳۷،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 
 <!-- بخش انرژی -->
@@ -101,7 +101,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۷.۳۷ دلار</b></td>
+<td align="left"><b>۹۶.۱۷ دلار</b></td>
 </tr>
 
 </tbody>
@@ -123,12 +123,12 @@
 
 * **قیمت‌های زنده بازار:**
   ```text
-  https://raw.githubusercontent.com/itsyebekhe/usd/main/market.json
+  https://raw.githubusercontent.com/mahdiesmaily/usd/main/market.json
   ```
 
 * **آرشیو و تاریخچه روزانه دلار:**
   ```text
-  https://raw.githubusercontent.com/itsyebekhe/usd/main/api/history.json
+  https://raw.githubusercontent.com/mahdiesmaily/usd/main/api/history.json
   ```
 
 <details dir="ltr">
@@ -136,14 +136,14 @@
 
 ```json
 {
-  "updated_at": "2026-10-06 16:47:09",
-  "date_shamsi": "1405/07/14",
-  "usd": 270090,
-  "eur": 304200,
-  "gold_18k": 26704830,
-  "gold_mesghal": 115680000,
-  "coin_emami": 273500000,
-  "oil": "87.37"
+  "updated_at": "2026-11-03 23:16:28",
+  "date_shamsi": "1405/08/12",
+  "usd": 273896,
+  "eur": 306500,
+  "gold_18k": 25451310,
+  "gold_mesghal": 110250000,
+  "coin_emami": 261500000,
+  "oil": "96.17"
 }
 ```
 
