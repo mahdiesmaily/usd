@@ -9,7 +9,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۱۳ آبان ۱۴۰۵ (2026-11-04) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۰۴:۰۳** (به وقت تهران)
+> 📅 **تاریخ:** ۱۳ آبان ۱۴۰۵ (2026-11-04) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۰:۲۵** (به وقت تهران)
 
 <br/>
 
@@ -36,12 +36,12 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۷۳،۸۸۱ تومان</b></td>
+<td align="left"><b>۲۷۳،۹۰۳ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۳۰۷،۱۰۰ تومان</b></td>
+<td align="left"><b>۳۰۷،۶۰۰ تومان</b></td>
 </tr>
 
 <!-- بخش طلا -->
@@ -51,17 +51,17 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۵،۴۵۱،۳۱۰ تومان</b></td>
+<td align="left"><b>۲۵،۶۳۵،۹۹۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۰،۲۵۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۱۱،۰۵۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۳۹۳۸.۲۹ دلار</b></td>
+<td align="left"><b>۴۰۱۵.۸۴ دلار</b></td>
 </tr>
 
 <!-- بخش سکه -->
@@ -71,12 +71,12 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه تمام امامی (طرح جدید)</b></td>
-<td align="left"><b>۲۶۱،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۶۲،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه بهار آزادی (طرح قدیم)</b></td>
-<td align="left"><b>۲۵۲،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۵۱،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
@@ -86,7 +86,7 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>ربع سکه بهار آزادی</b></td>
-<td align="left"><b>۷۵،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۷۵،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
@@ -101,7 +101,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۹۶.۵۰ دلار</b></td>
+<td align="left"><b>۹۶.۲۳ دلار</b></td>
 </tr>
 
 </tbody>
@@ -136,14 +136,14 @@
 
 ```json
 {
-  "updated_at": "2026-11-04 04:03:13",
+  "updated_at": "2026-11-04 10:25:30",
   "date_shamsi": "1405/08/13",
-  "usd": 273881,
-  "eur": 307100,
-  "gold_18k": 25451310,
-  "gold_mesghal": 110250000,
-  "coin_emami": 261500000,
-  "oil": "96.50"
+  "usd": 273903,
+  "eur": 307600,
+  "gold_18k": 25635990,
+  "gold_mesghal": 111050000,
+  "coin_emami": 262000000,
+  "oil": "96.23"
 }
 ```
 
