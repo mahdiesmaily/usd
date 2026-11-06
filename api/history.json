@@ -3,13 +3,13 @@
   "base_currency": "USD",
   "target_currency": "TOMAN",
   "timezone": "Asia/Tehran",
-  "updated_at": "2026-11-06 14:54:48",
+  "updated_at": "2026-11-06 21:49:55",
   "total_records": 1176,
   "latest": {
-    "timestamp": 1793964288,
+    "timestamp": 1793989195,
     "date": "2026-11-06",
-    "price_toman": 268915,
-    "price_irr": 2689150
+    "price_toman": 268181,
+    "price_irr": 2681810
   },
   "history": [
     {
@@ -7063,10 +7063,10 @@
       "price_irr": 2688860
     },
     {
-      "timestamp": 1793964288,
+      "timestamp": 1793989195,
       "date": "2026-11-06",
-      "price_toman": 268915,
-      "price_irr": 2689150
+      "price_toman": 268181,
+      "price_irr": 2681810
     }
   ]
 }
