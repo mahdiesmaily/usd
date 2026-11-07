@@ -9,7 +9,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۱۶ آبان ۱۴۰۵ (2026-11-07) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۳:۲۶** (به وقت تهران)
+> 📅 **تاریخ:** ۱۶ آبان ۱۴۰۵ (2026-11-07) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۹:۴۶** (به وقت تهران)
 
 <br/>
 
@@ -36,12 +36,12 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۶۷،۶۶۶ تومان</b></td>
+<td align="left"><b>۲۶۷،۰۵۸ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۲۹۸،۲۰۰ تومان</b></td>
+<td align="left"><b>۲۹۷،۷۰۰ تومان</b></td>
 </tr>
 
 <!-- بخش طلا -->
@@ -51,17 +51,17 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۵،۸۳۲،۲۲۰ تومان</b></td>
+<td align="left"><b>۲۵،۶۴۰،۶۱۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۱،۹۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۱۱،۰۷۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۴۰۶۷.۸۶ دلار</b></td>
+<td align="left"><b>۴۰۶۸.۷۱ دلار</b></td>
 </tr>
 
 <!-- بخش سکه -->
@@ -71,27 +71,27 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه تمام امامی (طرح جدید)</b></td>
-<td align="left"><b>۲۶۱،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۶۰،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه بهار آزادی (طرح قدیم)</b></td>
-<td align="left"><b>۲۵۳،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۵۱،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>نیم سکه بهار آزادی</b></td>
-<td align="left"><b>۱۳۸،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۳۷،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>ربع سکه بهار آزادی</b></td>
-<td align="left"><b>۷۴،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۷۳،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه گرمی</b></td>
-<td align="left"><b>۳۸،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۳۷،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 
 <!-- بخش انرژی -->
@@ -136,13 +136,13 @@
 
 ```json
 {
-  "updated_at": "2026-11-07 13:26:30",
+  "updated_at": "2026-11-07 19:46:43",
   "date_shamsi": "1405/08/16",
-  "usd": 267666,
-  "eur": 298200,
-  "gold_18k": 25832220,
-  "gold_mesghal": 111900000,
-  "coin_emami": 261500000,
+  "usd": 267058,
+  "eur": 297700,
+  "gold_18k": 25640610,
+  "gold_mesghal": 111070000,
+  "coin_emami": 260000000,
   "oil": "90.83"
 }
 ```
