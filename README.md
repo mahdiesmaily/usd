@@ -9,7 +9,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۱۸ آبان ۱۴۰۵ (2026-11-09) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۰۵:۲۴** (به وقت تهران)
+> 📅 **تاریخ:** ۱۸ آبان ۱۴۰۵ (2026-11-09) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۳:۰۶** (به وقت تهران)
 
 <br/>
 
@@ -36,12 +36,12 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۶۶،۱۷۷ تومان</b></td>
+<td align="left"><b>۲۶۶،۰۶۷ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۲۹۶،۹۰۰ تومان</b></td>
+<td align="left"><b>۲۹۷،۷۰۰ تومان</b></td>
 </tr>
 
 <!-- بخش طلا -->
@@ -51,17 +51,17 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۵،۴۴۴،۳۹۰ تومان</b></td>
+<td align="left"><b>۲۵،۷۶۲،۹۶۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۱۰،۲۲۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۱۱،۶۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۴۱۱۰.۳۶ دلار</b></td>
+<td align="left"><b>۴۰۹۳.۲۷ دلار</b></td>
 </tr>
 
 <!-- بخش سکه -->
@@ -71,22 +71,22 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه تمام امامی (طرح جدید)</b></td>
-<td align="left"><b>۲۵۹،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۵۹،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه بهار آزادی (طرح قدیم)</b></td>
-<td align="left"><b>۲۴۹،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۵۰،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>نیم سکه بهار آزادی</b></td>
-<td align="left"><b>۱۳۷،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۳۶،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>ربع سکه بهار آزادی</b></td>
-<td align="left"><b>۷۲،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۷۳،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
@@ -101,7 +101,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۹۰.۴۵ دلار</b></td>
+<td align="left"><b>۹۰.۰۸ دلار</b></td>
 </tr>
 
 </tbody>
@@ -136,14 +136,14 @@
 
 ```json
 {
-  "updated_at": "2026-11-09 05:24:11",
+  "updated_at": "2026-11-09 13:06:49",
   "date_shamsi": "1405/08/18",
-  "usd": 266177,
-  "eur": 296900,
-  "gold_18k": 25444390,
-  "gold_mesghal": 110220000,
-  "coin_emami": 259000000,
-  "oil": "90.45"
+  "usd": 266067,
+  "eur": 297700,
+  "gold_18k": 25762960,
+  "gold_mesghal": 111600000,
+  "coin_emami": 259500000,
+  "oil": "90.08"
 }
 ```
 
