@@ -9,7 +9,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۲۱ آبان ۱۴۰۵ (2026-11-12) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۳:۴۰** (به وقت تهران)
+> 📅 **تاریخ:** ۲۱ آبان ۱۴۰۵ (2026-11-12) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۲۲:۰۳** (به وقت تهران)
 
 <br/>
 
@@ -36,12 +36,12 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۶۷،۴۲۶ تومان</b></td>
+<td align="left"><b>۲۷۰،۱۸۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۲۹۶،۷۰۰ تومان</b></td>
+<td align="left"><b>۲۹۸،۶۰۰ تومان</b></td>
 </tr>
 
 <!-- بخش طلا -->
@@ -51,17 +51,17 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۵،۰۳۳،۵۰۰ تومان</b></td>
+<td align="left"><b>۲۵،۰۱۰،۴۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۰۸،۴۴۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۰۸،۳۴۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
 <td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۳۹۴۲.۰۸ دلار</b></td>
+<td align="left"><b>۳۸۸۰.۷۷ دلار</b></td>
 </tr>
 
 <!-- بخش سکه -->
@@ -101,7 +101,7 @@
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۶.۱۲ دلار</b></td>
+<td align="left"><b>۸۸.۲۳ دلار</b></td>
 </tr>
 
 </tbody>
@@ -136,14 +136,14 @@
 
 ```json
 {
-  "updated_at": "2026-11-12 13:40:29",
+  "updated_at": "2026-11-12 22:03:11",
   "date_shamsi": "1405/08/21",
-  "usd": 267426,
-  "eur": 296700,
-  "gold_18k": 25033500,
-  "gold_mesghal": 108440000,
+  "usd": 270180,
+  "eur": 298600,
+  "gold_18k": 25010400,
+  "gold_mesghal": 108340000,
   "coin_emami": 254500000,
-  "oil": "86.12"
+  "oil": "88.23"
 }
 ```
 
