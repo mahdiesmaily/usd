@@ -9,7 +9,7 @@
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۲۴ آبان ۱۴۰۵ (2026-11-15) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۰:۳۳** (به وقت تهران)
+> 📅 **تاریخ:** ۲۴ آبان ۱۴۰۵ (2026-11-15) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۸:۱۰** (به وقت تهران)
 
 <br/>
 
@@ -36,12 +36,12 @@
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۶۹،۴۸۲ تومان</b></td>
+<td align="left"><b>۲۶۶،۴۷۱ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۲۹۷،۱۰۰ تومان</b></td>
+<td align="left"><b>۲۹۳،۸۰۰ تومان</b></td>
 </tr>
 
 <!-- بخش طلا -->
@@ -51,12 +51,12 @@
 <tr>
 <td align="center">✨</td>
 <td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۴،۷۴۷،۲۲۰ تومان</b></td>
+<td align="left"><b>۲۴،۵۸۵،۶۲۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">⚖️</td>
 <td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۰۷،۲۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۰۶،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🌐</td>
@@ -71,27 +71,27 @@
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه تمام امامی (طرح جدید)</b></td>
-<td align="left"><b>۲۵۳،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۵۱،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه بهار آزادی (طرح قدیم)</b></td>
-<td align="left"><b>۲۴۵،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۴۱،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>نیم سکه بهار آزادی</b></td>
-<td align="left"><b>۱۳۳،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۳۲،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>ربع سکه بهار آزادی</b></td>
-<td align="left"><b>۷۲،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۷۱،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه گرمی</b></td>
-<td align="left"><b>۳۷،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۳۶،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 
 <!-- بخش انرژی -->
@@ -136,13 +136,13 @@
 
 ```json
 {
-  "updated_at": "2026-11-15 10:33:46",
+  "updated_at": "2026-11-15 18:10:38",
   "date_shamsi": "1405/08/24",
-  "usd": 269482,
-  "eur": 297100,
-  "gold_18k": 24747220,
-  "gold_mesghal": 107200000,
-  "coin_emami": 253000000,
+  "usd": 266471,
+  "eur": 293800,
+  "gold_18k": 24585620,
+  "gold_mesghal": 106500000,
+  "coin_emami": 251000000,
   "oil": "88.56"
 }
 ```
