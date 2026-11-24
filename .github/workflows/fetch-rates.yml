@@ -2,7 +2,7 @@ name: Fetch Market Rates & Update API
 
 on:
   schedule:
-   - cron: '7,37 * * * *'
+    - cron: '*/5 * * * *'
   workflow_dispatch:      # Manual trigger
 
 permissions:
@@ -36,11 +36,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add market.json api/history.json usd_chart.png README.md
+          git add market.json README.md api/*.json *.png share/*.html charts/*.png
           
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "chore(auto): update rates, API history and chart [skip ci]"
+            git commit -m "chore(auto): update rates, API history and charts [skip ci]"
             git push
           fi

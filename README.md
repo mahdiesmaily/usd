@@ -1,15 +1,16 @@
 <div dir="rtl" align="center">
 
-# 📊 نبض بازار | قیمت لحظه‌ای ارز، طلا، سکه و نفت
+# 📊 نبض بازار | قیمت لحظه‌ای و تاریخچه ارز، طلا و سکه
 
-[![Auto Update](https://img.shields.io/badge/Auto--Update-Every_30_Minutes-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](#)
+[![Auto Update](https://img.shields.io/badge/Auto--Update-Every_5_Minutes-10b981?style=for-the-badge&logo=githubactions&logoColor=white)](#)
 [![API Status](https://img.shields.io/badge/API-Live_&_Free-3b82f6?style=for-the-badge&logo=json&logoColor=white)](#-وب‌سرویس-و-دسترسی-api)
 [![Timezone](https://img.shields.io/badge/Timezone-Tehran_(UTC%2B3:30)-f59e0b?style=for-the-badge)](#)
+[![Telegram](https://img.shields.io/badge/Telegram-@yebekhe-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yebekhe)
 
 <br/>
 
 > [!NOTE]
-> 📅 **تاریخ:** ۲۵ آبان ۱۴۰۵ (2026-11-16) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۲۰:۵۱** (به وقت تهران)
+> 📅 **تاریخ:** ۳ آذر ۱۴۰۵ (2026-11-24) &nbsp;|&nbsp; ⏱ **ساعت آخرین بروزرسانی:** **۱۵:۲۰** (به وقت تهران)
 
 <br/>
 
@@ -29,79 +30,104 @@
 </thead>
 <tbody>
 
-<!-- بخش ارزها -->
+<!-- بخش ارزهای شاخص -->
 <tr>
 <th colspan="3" align="right" bgcolor="#f1f5f9">💵 ارزهای شاخص</th>
 </tr>
 <tr>
 <td align="center">🇺🇸</td>
 <td><b>دلار آمریکا</b></td>
-<td align="left"><b>۲۶۹،۱۸۸ تومان</b></td>
+<td align="left"><b>۲۸۴،۷۵۹ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🇪🇺</td>
 <td><b>یورو اروپا</b></td>
-<td align="left"><b>۲۹۶،۲۰۰ تومان</b></td>
+<td align="left"><b>۳۱۱،۸۰۰ تومان</b></td>
+</tr>
+<tr>
+<td align="center">🇦🇪</td>
+<td><b>درهم امارات</b></td>
+<td align="left"><b>۷۷،۵۴۰ تومان</b></td>
+</tr>
+<tr>
+<td align="center">🇹🇷</td>
+<td><b>لیر ترکیه</b></td>
+<td align="left"><b>۵،۷۱۰ تومان</b></td>
+</tr>
+<tr>
+<td align="center">🇬🇧</td>
+<td><b>پوند انگلیس</b></td>
+<td align="left"><b>۳۶۸،۷۰۰ تومان</b></td>
+</tr>
+<tr>
+<td align="center">🇨🇦</td>
+<td><b>دلار کانادا</b></td>
+<td align="left"><b>۱۹۸،۷۰۰ تومان</b></td>
+</tr>
+<tr>
+<td align="center">🇦🇺</td>
+<td><b>دلار استرالیا</b></td>
+<td align="left"><b>۱۸۸،۹۰۰ تومان</b></td>
+</tr>
+<tr>
+<td align="center">🇨🇳</td>
+<td><b>یوان چین</b></td>
+<td align="left"><b>۴۲،۸۴۰ تومان</b></td>
 </tr>
 
-<!-- بخش طلا -->
+<!-- بخش مسکوکات و طلا -->
 <tr>
-<th colspan="3" align="right" bgcolor="#f1f5f9">🥇 طلا و مظنه</th>
-</tr>
-<tr>
-<td align="center">✨</td>
-<td><b>طلای ۱۸ عیار (هر گرم)</b></td>
-<td align="left"><b>۲۴،۵۶۷،۱۵۰ تومان</b></td>
-</tr>
-<tr>
-<td align="center">⚖️</td>
-<td><b>مثقال طلا (آبشده)</b></td>
-<td align="left"><b>۱۰۶،۴۲۰،۰۰۰ تومان</b></td>
-</tr>
-<tr>
-<td align="center">🌐</td>
-<td><b>انس جهانی طلا</b></td>
-<td align="left"><b>۳۸۶۷.۲۸ دلار</b></td>
-</tr>
-
-<!-- بخش سکه -->
-<tr>
-<th colspan="3" align="right" bgcolor="#f1f5f9">🪙 مسکوکات بهار آزادی</th>
+<th colspan="3" align="right" bgcolor="#f1f5f9">🪙 مسکوکات بهار آزادی و طلا</th>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه تمام امامی (طرح جدید)</b></td>
-<td align="left"><b>۲۵۱،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۶۷،۵۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه بهار آزادی (طرح قدیم)</b></td>
-<td align="left"><b>۲۴۱،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۲۵۵،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>نیم سکه بهار آزادی</b></td>
-<td align="left"><b>۱۳۲،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۱۴۲،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>ربع سکه بهار آزادی</b></td>
-<td align="left"><b>۷۱،۵۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۷۸،۰۰۰،۰۰۰ تومان</b></td>
 </tr>
 <tr>
 <td align="center">🟡</td>
 <td><b>سکه گرمی</b></td>
-<td align="left"><b>۳۶،۰۰۰،۰۰۰ تومان</b></td>
+<td align="left"><b>۳۸،۰۰۰،۰۰۰ تومان</b></td>
+</tr>
+<tr>
+<td align="center">✨</td>
+<td><b>طلای ۱۸ عیار (هر گرم)</b></td>
+<td align="left"><b>۲۵،۷۳۹،۸۸۰ تومان</b></td>
+</tr>
+<tr>
+<td align="center">⚖️</td>
+<td><b>مثقال طلا (آبشده)</b></td>
+<td align="left"><b>۱۱۱،۵۰۰،۰۰۰ تومان</b></td>
+</tr>
+<tr>
+<td align="center">🌐</td>
+<td><b>انس جهانی طلا</b></td>
+<td align="left"><b>۳،۶۲۸.۹۱ دلار</b></td>
 </tr>
 
-<!-- بخش انرژی -->
+<!-- کامودیتی -->
 <tr>
 <th colspan="3" align="right" bgcolor="#f1f5f9">🛢️ کامودیتی و انرژی</th>
 </tr>
 <tr>
 <td align="center">⛽</td>
 <td><b>نفت خام برنت / اوپک</b></td>
-<td align="left"><b>۸۶.۳۶ دلار</b></td>
+<td align="left"><b>۸۰.۲۴ دلار</b></td>
 </tr>
 
 </tbody>
@@ -109,50 +135,42 @@
 
 ---
 
-### 📈 نمودار روند ۶ ماهه دلار آمریکا
+### 📈 نمودار روند ۶ ماهه شاخص‌ها
 
+#### دلار آمریکا
 <div align="center">
-  <img src="usd_chart.png?raw=true" alt="نمودار روند قیمت دلار" width="100%" style="border-radius: 12px;" />
+  <img src="charts/usd.png?raw=true" alt="نمودار دلار آمریکا" width="100%" style="border-radius: 12px;" />
+</div>
+
+#### سکه تمام امامی
+<div align="center">
+  <img src="charts/coin_emami.png?raw=true" alt="نمودار سکه امامی" width="100%" style="border-radius: 12px;" />
+</div>
+
+#### طلای ۱۸ عیار
+<div align="center">
+  <img src="charts/gold_18k.png?raw=true" alt="نمودار طلای ۱۸ عیار" width="100%" style="border-radius: 12px;" />
 </div>
 
 ---
 
 ### 🚀 وب‌سرویس و دسترسی API
 
-داده‌ها به صورت فایل‌های JSON تمیز در مخزن ذخیره شده و به عنوان API قابل فراخوانی هستند:
-
-* **قیمت‌های زنده بازار:**
+* **قیمت‌های زنده تمامی ۳۷ ارز و مسکوکات:**
   ```text
-  https://raw.githubusercontent.com/mahdiesmaily/usd/main/market.json
+  https://raw.githubusercontent.com/itsyebekhe/nabz/main/market.json
   ```
 
-* **آرشیو و تاریخچه روزانه دلار:**
+* **آرشیو تاریخی هر دارایی:**
   ```text
-  https://raw.githubusercontent.com/mahdiesmaily/usd/main/api/history.json
+  https://raw.githubusercontent.com/itsyebekhe/nabz/main/api/history_<symbol>.json
   ```
+  *(نمونه: `history_usd.json`, `history_eur.json`, `history_coin_emami.json`, `history_usd_xau.json`)*
 
-<details dir="ltr">
-<summary><b>نمونه ساختار فایل market.json (کلیک کنید)</b></summary>
-
-```json
-{
-  "updated_at": "2026-11-16 20:51:22",
-  "date_shamsi": "1405/08/25",
-  "usd": 269188,
-  "eur": 296200,
-  "gold_18k": 24567150,
-  "gold_mesghal": 106420000,
-  "coin_emami": 251500000,
-  "oil": "86.36"
-}
-```
-
-</details>
-
-<br/>
+---
 
 <div align="center">
-<sub>ساخته‌شده برای دسترسی آزاد و شفاف به داده‌های اقتصادی</sub>
+<sub>ساخته‌شده با ❤️ توسط <a href="https://t.me/yebekhe">@yebekhe</a> | داده‌ها به صورت خودکار هر ۳۰ دقیقه بروزرسانی می‌شوند</sub>
 </div>
 
 </div>
