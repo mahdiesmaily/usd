@@ -170,9 +170,9 @@
 ---
 
 <div align="center">
-<sub>ساخته‌شده با ❤️ توسط <a href="https://t.me/yebekhe">@yebekhe</a> | داده‌ها به صورت خودکار هر ۳۰ دقیقه بروزرسانی می‌شوند</sub>
+<sub>ساخته‌شده با  ❤️ توسط <a href="https://t.me/yebekhe">@yebekhe</a> | داده‌ها به صورت خودکار هر ۳۰ دقیقه بروزرسانی می‌شوند</sub>
 </div>
-
+۰ سبب ثثثثثثث
 </div>
 
 <!-- GitHub Pages rebuild trigger: 2026-11-24 -->
