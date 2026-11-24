@@ -174,3 +174,5 @@
 </div>
 
 </div>
+
+<!-- GitHub Pages rebuild trigger: 2026-11-24 -->
