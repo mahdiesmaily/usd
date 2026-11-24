@@ -3,10 +3,11 @@ name: Fetch Market Rates & Update API
 on:
   schedule:
     - cron: '*/5 * * * *'
-  workflow_dispatch:      # Manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
+  actions: write
 
 env:
   TZ: Asia/Tehran
@@ -14,7 +15,6 @@ env:
 jobs:
   update-rates:
     runs-on: ubuntu-latest
-
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -32,15 +32,18 @@ jobs:
       - name: Run fetch script and generate outputs
         run: python fetch_rates.py
 
-      - name: Commit and push changes
+      - name: Commit, push and trigger Pages deployment
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add market.json README.md api/*.json *.png share/*.html charts/*.png
-          
+
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             git commit -m "chore(auto): update rates, API history and charts [skip ci]"
             git push
+            gh workflow run deploy-pages.yml --ref main
           fi
